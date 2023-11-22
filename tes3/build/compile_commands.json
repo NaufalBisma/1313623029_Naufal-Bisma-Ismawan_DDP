@@ -1,0 +1,14 @@
+[
+  {
+    "directory": "C:\\Users\\Bisma\\Documents\\DDP\\d_lang\\tes3\\build",
+    "command": "\"dmd\" \"-I=app.exe.p\" \"-I=.\" \"-I=..\" \"-color=on\" \"-mscrtlib=msvcrtd\" \"-wi\" \"-m64\" \"-g\" \"-debug\" -makedeps=\"app.exe.p\\main.d.obj.deps\" -of=app.exe.p/main.d.obj \"-c\" ../main.d",
+    "file": "../main.d",
+    "output": "app.exe.p/main.d.obj"
+  },
+  {
+    "directory": "C:\\Users\\Bisma\\Documents\\DDP\\d_lang\\tes3\\build",
+    "command": "\"dmd\" \"-I=app.exe.p\" \"-I=.\" \"-I=..\" \"-color=on\" \"-mscrtlib=msvcrtd\" \"-wi\" \"-m64\" \"-g\" \"-debug\" -makedeps=\"app.exe.p\\solver29.d.obj.deps\" -of=app.exe.p/solver29.d.obj \"-c\" ../solver29.d",
+    "file": "../solver29.d",
+    "output": "app.exe.p/solver29.d.obj"
+  }
+]

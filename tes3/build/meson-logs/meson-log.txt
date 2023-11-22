@@ -1,0 +1,108 @@
+Build started at 2023-11-21T02:06:13.194188
+Main binary: C:\Program Files\Meson\meson.exe
+Build Options: 
+Python system: Windows
+The Meson build system
+Version: 1.2.3
+Source dir: C:\Users\Bisma\Documents\DDP\d_lang\tes3
+Build dir: C:\Users\Bisma\Documents\DDP\d_lang\tes3\build
+Build type: native build
+Project name: test
+Project version: undefined
+Activating VS 17.7.6
+-----------
+Detecting compiler via: `cl /?` -> 2
+stderr:
+Microsoft (R) C/C++ Optimizing Compiler Version 19.37.32825 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+cl : Command line error D8004 : '/D' requires an argument
+-----------
+D compiler for the host machine: dmd (dmd 2.105.3-dirty "DMD64 D Compiler v2.105.3-dirty")
+D linker for the host machine: dmd link 14.37.32825.0
+-----------
+Detecting linker via: `lib /?` -> 1100
+stdout:
+Microsoft (R) Library Manager Version 14.37.32825.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+usage: LIB [options] [files]
+
+   options:
+
+      /DEF[:filename]
+      /ERRORREPORT:{NONE|PROMPT|QUEUE|SEND}
+      /EXPORT:symbol
+      /EXTRACT:membername
+      /INCLUDE:symbol
+      /LIBPATH:dir
+      /LINKREPRO:dir
+      /LINKREPROTARGET:filename
+      /LIST[:filename]
+      /LTCG
+      /MACHINE:{ARM|ARM64|ARM64X|EBC|X64|X86}
+      /NAME:filename
+      /NODEFAULTLIB[:library]
+      /NOLOGO
+      /OUT:filename
+      /REMOVE:membername
+      /SUBSYSTEM:{BOOT_APPLICATION|CONSOLE|EFI_APPLICATION|
+                  EFI_BOOT_SERVICE_DRIVER|EFI_ROM|EFI_RUNTIME_DRIVER|
+                  NATIVE|POSIX|WINDOWS|WINDOWSCE}[,#[.##]]
+      /VERBOSE
+      /WX[:NO]
+      /WX[:nnnn[,nnnn...]]
+-----------
+-----------
+Detecting compiler via: `cl /?` -> 2
+stderr:
+Microsoft (R) C/C++ Optimizing Compiler Version 19.37.32825 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+cl : Command line error D8004 : '/D' requires an argument
+-----------
+D compiler for the build machine: dmd (dmd 2.105.3-dirty "DMD64 D Compiler v2.105.3-dirty")
+D linker for the build machine: dmd link 14.37.32825.0
+-----------
+Detecting linker via: `lib /?` -> 1100
+stdout:
+Microsoft (R) Library Manager Version 14.37.32825.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+usage: LIB [options] [files]
+
+   options:
+
+      /DEF[:filename]
+      /ERRORREPORT:{NONE|PROMPT|QUEUE|SEND}
+      /EXPORT:symbol
+      /EXTRACT:membername
+      /INCLUDE:symbol
+      /LIBPATH:dir
+      /LINKREPRO:dir
+      /LINKREPROTARGET:filename
+      /LIST[:filename]
+      /LTCG
+      /MACHINE:{ARM|ARM64|ARM64X|EBC|X64|X86}
+      /NAME:filename
+      /NODEFAULTLIB[:library]
+      /NOLOGO
+      /OUT:filename
+      /REMOVE:membername
+      /SUBSYSTEM:{BOOT_APPLICATION|CONSOLE|EFI_APPLICATION|
+                  EFI_BOOT_SERVICE_DRIVER|EFI_ROM|EFI_RUNTIME_DRIVER|
+                  NATIVE|POSIX|WINDOWS|WINDOWSCE}[,#[.##]]
+      /VERBOSE
+      /WX[:NO]
+      /WX[:nnnn[,nnnn...]]
+-----------
+Build machine cpu family: x86_64
+Build machine cpu: x86_64
+Host machine cpu family: x86_64
+Host machine cpu: x86_64
+Target machine cpu family: x86_64
+Target machine cpu: x86_64
+Build targets in project: 1
+
+Found ninja-1.11.1 at "C:\Program Files\Meson\ninja.EXE"
+WARNING: Running the setup command as `meson [options]` instead of `meson setup [options]` is ambiguous and deprecated.
